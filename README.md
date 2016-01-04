@@ -1,7 +1,3 @@
-# ng-book 2: Simple Reddit-like App
-
-> A simple voting app that resembles a minimal-reddit link voting app in Angular 2.
-
 ## Dependencies
 
 Before you get started, you need to make sure you have node.js installed. We'll be using `npm` to run this project (`npm` will be installed when you install node.js). You can [install node.js here](https://nodejs.org/en/).
@@ -25,13 +21,7 @@ by running the command:
 npm run go
 ```
 
-Then visit [http://localhost:8080](http://localhost:8080) in your browser. You should see an application with the header `Angular 2 Simple Reddit`. 
-
-## Getting Help
-
-In the case where it doesn't work, the first thing to try is looking at the developer console in your browser.
-
-If that doesn't work, [come chat with us](https://gitter.im/ng-book/ng-book)!
+Then visit [http://localhost:8080](http://localhost:8080) in your browser. 
 
 ## Other Files (advanced)
 
